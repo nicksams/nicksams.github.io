@@ -3,59 +3,47 @@
     "name": "Nicholas Samson",
     "label": "Student",
     "picture": "nicksams.github.io/images/IMG_6229.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "ngsamson@hawaii.edu",
+    "phone": "",
+    "website": "https://nicksams.github.io",
+    "summary": "I am studying for a B.B.A. in Management of Information Systems in Shidler at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96701",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "nicksams",
+        "url": "http://github.com/nicksams"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data hierachy",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "System Securty",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Net Administraton",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Shiba Inu's",
       "keywords": [
       ]
     }
-  ],
+  ]
   "skills": [
     {
       "name": "Languages and Frameworks",
