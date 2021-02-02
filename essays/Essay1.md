@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: Essay1
+date: 2021-02-02
 labels:
   - Software Engineering
   - Learning
