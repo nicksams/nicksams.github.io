@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Lab E3
+title: Essay2
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-17
 labels:
